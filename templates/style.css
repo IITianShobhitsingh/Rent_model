@@ -1,0 +1,87 @@
+.form{
+    border: black solid 3px;
+    margin-left:450px ;
+    width: 300px;
+}
+.area{
+    padding: 10px;
+}
+.bedrooms{
+    padding: 10px;
+}
+.bathrooms{
+    padding: 10px;
+}
+.stories{
+    padding: 10px;
+}
+.parking{
+    padding: 10px;
+}
+.prefarea{
+    padding: 10px;
+}
+.furnishingstatus{
+    padding: 10px;
+}
+.airconditioning{
+    padding: 10px;
+}
+.hotwaterheating{
+    padding: 10px;
+}
+.basement{
+    padding: 10px;
+}
+.mainroad{
+    padding: 10px;
+}
+.guestroom{
+    padding: 10px;
+}
+.submit{
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+input[type="submit"]:hover{
+    cursor: pointer;
+}
+
+
+#area{
+    margin-left: 10px;
+}
+#bedrooms{
+    margin-left: 10px;
+}
+#bathrooms{
+    margin-left: 10px;
+}
+#stories{
+    margin-left: 10px;
+}
+#parking{
+    margin-left: 10px;
+}
+#prefarea{
+    margin-left: 10px;
+}
+#furnishingstatus{
+    margin-left: 10px;
+}
+#airconditioning{
+    margin-left: 10px;
+}
+#hotwaterheating{
+    margin-left: 10px;
+}
+#basement{
+    margin-left: 10px;
+}
+#mainroad{
+    margin-left: 10px;
+}
+#guestroom{
+    margin-left: 10px;
+}
